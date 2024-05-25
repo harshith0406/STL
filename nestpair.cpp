@@ -15,3 +15,5 @@ int main()
   }
   return 0;
 }
+// we use to create a vector like vector<vector<int>> v;
+//where we first store a vector and push it to another vector
