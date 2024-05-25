@@ -23,6 +23,5 @@ int main()
   //dont pass vector directly into a function coz it is expensive operation use &
   //vector<int> &d=a;
   //this will not create a copy whereas it will refer to the same vector
-
   return 0;
 }
