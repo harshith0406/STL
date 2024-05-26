@@ -6,7 +6,8 @@ int main()
 
   set<int> st;
   unordered_set<int> st1;
-  multiset<int>s;//allows dupicate values in the set so this is used
+  multiset<int>s;
+  //allows dupicate values in the set so this is used
 
   // this is used to store in the sorted order and it stores only the unique elements inside it
   st.insert(0);
